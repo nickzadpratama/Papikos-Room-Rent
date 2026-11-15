@@ -4,6 +4,8 @@
   "description": "> Tuliskan API Docs kamu di sini",
   "main": "index.js",
   "scripts": {
+    "start": "node bin/www.js",
+    "dev": "nodemon bin/www.js",
     "test": "jest --detectOpenHandles --forceExit"
   },
   "repository": {
