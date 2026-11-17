@@ -2,11 +2,11 @@
 
 > Tuliskan API Docs kamu di sini
 
-Tema: Rent Room (Mami Kos)
+Tema: Rent Room (Papi Kos)
 
-# Mami Kos Server
+# Papi Kos Server
 
-Mami Kos is an application to share and manage Mami Kos
+Papi Kos is an application to share and manage Papi Kos
 boarding house. It performs standard CRUD actions based on RESTful concept.
 
 ## This app has :
@@ -104,7 +104,7 @@ Request Body
 not needed
 
 _Response (200)_
-This is Mami kos Server
+This is Papi kos Server
 
 ## POST /pub/register
 
