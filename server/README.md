@@ -1,6 +1,6 @@
-# Papi Kos (Mami Kos) - Server API
+# Papi Kos (Papi Kos) - Server API
 
-Backend RESTful API untuk platform persewaan dan manajemen kamar indekos (**Papi Kos / Mami Kos**). Aplikasi ini menyediakan layanan pengelolaan data kamar indekos (*lodgings*), kategori/tipe indekos (*types*), otentikasi & otorisasi pengguna berbasis role (*Admin & Staff*), upload gambar ke cloud storage, serta endpoint publik yang dilengkapi fitur pencarian (*search*), penyaringan (*filtering*), pengurutan (*sorting*), dan paginasi (*pagination*).
+Backend RESTful API untuk platform persewaan dan manajemen kamar indekos (**Papi Kos / Papi Kos**). Aplikasi ini menyediakan layanan pengelolaan data kamar indekos (*lodgings*), kategori/tipe indekos (*types*), otentikasi & otorisasi pengguna berbasis role (*Admin & Staff*), upload gambar ke cloud storage, serta endpoint publik yang dilengkapi fitur pencarian (*search*), penyaringan (*filtering*), pengurutan (*sorting*), dan paginasi (*pagination*).
 
 ---
 
