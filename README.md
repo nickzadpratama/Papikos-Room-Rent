@@ -1,6 +1,6 @@
-# Papi Kos (Mami Kos) - Platform Persewaan & Manajemen Indekos
+# Papi Kos - Platform Persewaan & Manajemen Indekos
 
-Aplikasi web *full-stack* modern untuk sistem persewaan dan pengelolaan kamar indekos (**Papi Kos / Mami Kos**). Proyek ini terdiri dari arsitektur backend RESTful API terpusat berbasis Node.js & PostgreSQL, serta dua aplikasi frontend berbasis React.js & Vite (satu portal untuk publik/pencari kos, dan satu portal CMS untuk pengelola indekos).
+Aplikasi web *full-stack* modern untuk sistem persewaan dan pengelolaan kamar indekos (**Papi Kos**). Proyek ini terdiri dari arsitektur backend RESTful API terpusat berbasis Node.js & PostgreSQL, serta dua aplikasi frontend berbasis React.js & Vite (satu portal untuk publik/pencari kos, dan satu portal CMS untuk pengelola indekos).
 
 ---
 
